@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vikas Verma and I'm a passionate Full Stack Developer with a on-hand experience of around 18 months.</p>
+<p align="left">My name is Vikas Verma and I'm a passionate Full Stack Developer with in-hand experience of around 18 months.</p>
 
 ###
 
